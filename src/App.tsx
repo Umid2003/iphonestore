@@ -26,7 +26,7 @@ export default function App() {
         <Navbar />
 
         {/* Main Content Sections */}
-        <main>
+        <main> 
           {/* 1. Cinematic 3D Hero Section */}
           <HeroSection />
 

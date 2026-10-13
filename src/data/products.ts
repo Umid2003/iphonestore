@@ -1,7 +1,7 @@
 import { Product, StoreConfig } from '../types.ts';
 
 export const initialStoreConfig: StoreConfig = {
-  storeName: "iSTUDIO",
+  storeName: "STARTUM",
   whatsAppPhone: "+998901234567",
   supportPhone: "+998 71 200 70 70",
   showroomAddress: {
