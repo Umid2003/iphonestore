@@ -1,0 +1,6 @@
+{
+  "name": "iSTUDIO — Futuristic 3D Luxury Apple Flagship",
+  "description": "Futuristic 3D luxury Apple showroom and e-commerce experience featuring interactive 3D iPhone models, seamless ordering, and multilingual support in Uzbek, Russian, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
